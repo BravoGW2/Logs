@@ -1,0 +1,37 @@
+{
+  "siteTheme": {
+    "ui": "classic",
+    "paletteId": "Arcane",
+    "kineticFont": "default"
+  },
+  "entries": [
+    {
+      "id": "20260303-185728-1kib",
+      "title": "Legend Blizz",
+      "commanders": [
+        "Legend Blizz"
+      ],
+      "dateStart": "2026-03-04T04:57:28.000Z",
+      "dateEnd": "2026-03-04T05:41:50.000Z",
+      "dateLabel": "3/3/2026, 6:57:28 PM - 3/3/2026, 7:41:50 PM",
+      "url": "https://BravoGW2.github.io/Logs/?report=20260303-185728-1kib",
+      "summary": {
+        "borderlandsPct": 0.8333333333333334,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 14
+      }
+    }
+  ]
+}

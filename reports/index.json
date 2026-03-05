@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260304-151248-a68j",
+      "title": "Emo Radee",
+      "commanders": [
+        "Emo Radee"
+      ],
+      "dateStart": "2026-03-05T01:12:48.000Z",
+      "dateEnd": "2026-03-05T03:02:31.000Z",
+      "dateLabel": "3/4/2026, 3:12:48 PM - 3/4/2026, 5:02:31 PM",
+      "url": "https://BravoGW2.github.io/Logs/?report=20260304-151248-a68j",
+      "summary": {
+        "borderlandsPct": 0.875,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 21,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Obsidian Sanctum",
+            "value": 3,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260303-185728-1kib",
       "title": "Legend Blizz",
       "commanders": [
